@@ -16,5 +16,4 @@ OpenCV 2.4.12
 [1] A. Araujo, D. Chen, P. Vajda, etc, Real-Time Query-by-Image Video Search System. _MM'14_. (2014)
 
 
-
 [2] H. Bay, T. Tuytelaars and L. V. Gool, SURF: Speeded Up Robust Features. _Computer Vision and Image Understanding 110(3)_. p.346 - p.359, (2008)
